@@ -13,7 +13,6 @@ public class Main {
             Scanner number = new Scanner(System.in);
             massive[i] = number.nextInt();
         }
-        System.out.println(massive);
 
         // sorting
         int note;
